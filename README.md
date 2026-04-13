@@ -1,4 +1,4 @@
-# HuiyuanLiu
+# Huiyuan Liu
 Grinnell College
 Psychology and statistics student interested in market research, consumer insights, and user behavior.
 
