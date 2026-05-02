@@ -1,5 +1,6 @@
 # Huiyuan Liu
 Grinnell College
+
 Portfolio of statistical analysis projects that I did during college.
 
 ## Skills
